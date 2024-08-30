@@ -1,6 +1,6 @@
 <h1 align="center">Data Engineering</h1>
 
-<h3 align="center">✨Welcome to my Data Science projects✨</h2>
+<h3 align="center">✨Welcome to my Data Engineering projects✨</h2>
 </br>
 
 ## 🖥️Projects
@@ -14,7 +14,7 @@ In this project, acting as a Data Scientist, I performed all the necessary steps
 </br>
 </br>
 To access it, click the link to be redirected to the project page👇🏻
-- [Bootcamp NTT Data](https://github.com/gut0oliveira/Data-Science/tree/main/IBM-Applied-DS-Capstone)
+- [Bootcamp NTT Data](https://github.com/gut0oliveira/Data-Engineering/tree/main/Bootcamp%20NTT%20Data)
 </br>
 </br>
 <h1 align="center">
