@@ -13,7 +13,7 @@ Below is the list of projects I've developed
 </br>
 </br>
 To access it, click the link to be redirected to the project page👇🏻
-- [Bootcamp NTT Data](https://github.com/gut0oliveira/Data-Engineering/tree/main/Bootcamp%20NTT%20Data)
+- [Bootcamp NTT Data](https://github.com/gut0oliveira/Data-Engineering/tree/main/Bootcamp-NTT-Data)
 </br>
 </br>
 <h1 align="center">
