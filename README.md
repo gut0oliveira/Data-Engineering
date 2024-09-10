@@ -5,16 +5,6 @@
 
 ## 🖥️Projects
 Below is the list of projects I've developed
-
-- [Bootcamp NTT Data](#bootcamp-ntt-data)
-
-## ✅Bootcamp NTT Data
-### Introduction:
-Bootcamp by DIO
-</br>
-</br>
-To access it, click the link to be redirected to the project page👇🏻
-- [Bootcamp NTT Data](https://github.com/gut0oliveira/Data-Engineering/tree/main/Bootcamp-NTT-Data)
 </br>
 </br>
 <h1 align="center">
